@@ -3,4 +3,3 @@ node_modules
 build
 dist
 upload
-src/config/config.ts
